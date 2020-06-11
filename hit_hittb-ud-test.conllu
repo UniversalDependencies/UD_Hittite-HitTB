@@ -1,5 +1,5 @@
-# sentid=5.7
-# text=ták-ku LÚ.U19.LU-an ku-iš-ki ḫu-ú-ni-ik-zi ta-an iš-tar-ni-ik-zi nu a-pu-u-un ša-a-ak-ta-a-iz-zi
+# sent_id = 5.7
+# text = ták-ku LÚ.U19.LU-an ku-iš-ki ḫu-ú-ni-ik-zi ta-an iš-tar-ni-ik-zi nu a-pu-u-un ša-a-ak-ta-a-iz-zi
 1	ták-ku	takku	SCONJ	—	—	-	-	-	-
 2	LÚ.U19.LU-an	antuhša-	NOUN	—	Case=Acc|Gender=Com|Num=Sing	-	-	-	-
 3	ku-iš-ki	kuiški	PRON	—	Case=Nom|Gender=Com|Num=Sing	-	-	-	-
@@ -12,8 +12,8 @@
 9	a-pu-u-un	apā-	PRON	—	Case=Acc|Gender=Com|Num=Sing|PronType=Dem	-	-	-	-
 10	ša-a-ak-ta-a-iz-zi	šāktāi-	VERB	—	Num=Sing|Person=3|Tense=Pres|Voice=Act	-	-	-	-
 
-# sentid=6.2
-# text=LÚ.MEŠ KUR URU-Mi-iz-ra-ma ma-aḫ-ḫa-an ŠA KUR URU-Am-ka GUL-aḫ-ḫu-wa-ar iš-ta-ma-aš-ša-an-zi na-at na-aḫ-ša-ri-ya-an-zi
+# sent_id = 6.2
+# text = LÚ.MEŠ KUR URU-Mi-iz-ra-ma ma-aḫ-ḫa-an ŠA KUR URU-Am-ka GUL-aḫ-ḫu-wa-ar iš-ta-ma-aš-ša-an-zi na-at na-aḫ-ša-ri-ya-an-zi
 1	LÚ.MEŠ	pišna/i-	NOUN	—	Case=Nom|Gender=Com|Num=Pl	-	-	-	-
 2	KUR	utnē-	NOUN	—	Case=Gen|Gender=Neut|Num=Sing	-	-	-	-
 3-4	URU-Mi-iz-ra-ma	—	—	—	—	-	-	-	-
@@ -30,8 +30,8 @@
 12	a-at	-at	PRON	—	Gender=Com|Num=Pl|Person=3|PronType=Prs	-	-	-	-
 13	na-aḫ-ša-ri-ya-an-zi	naḫšaratt-	VERB	—	Num=Pl|Person=3|Tense=Pres|Voice=Act	-	-	-	-
 
-# sentid=6.4
-# text=ták-ku ÌR-aš É-er lu-uk-ke-ez-zi iš-ḫa-a-aš-ši-ša še-e-er-ši-it šar-ni-ik-zi … ták-ku na-at-ta-ma šar-ni-ik-zi nu a-pu-u-un-pát šu-ú-ez-zi
+# sent_id = 6.4
+# text = ták-ku ÌR-aš É-er lu-uk-ke-ez-zi iš-ḫa-a-aš-ši-ša še-e-er-ši-it šar-ni-ik-zi … ták-ku na-at-ta-ma šar-ni-ik-zi nu a-pu-u-un-pát šu-ú-ez-zi
 1	ták-ku	takku	SCONJ	—	—	-	-	-	-
 2	ÌR-aš	ÌR-(n)a/i-	NOUN	—	Case=Nom|Gender=Com|Num=Sing	-	-	-	-
 3	É-er	per	NOUN	—	Case=Nom|Gender=Neut|Num=Sing	-	-	-	-
@@ -53,8 +53,8 @@
 16	pát	-pat	PART	—	—	-	-	-	-
 17	šu-ú-ez-zi	šuwe-	VERB	—	Num=Sing|Person=3|Tense=Pres|Voice=Act	-	-	-	-
 
-# sentid=6.7
-# text=TI-an-za-aš nu d-UTU ŠA-ME-E IGI.ḪI.A-it uš-ke-ez-zi NINDA-an-na-az TI-an-na-aš az-zi-ik-ke-ez-zi
+# sent_id = 6.7
+# text = TI-an-za-aš nu d-UTU ŠA-ME-E IGI.ḪI.A-it uš-ke-ez-zi NINDA-an-na-az TI-an-na-aš az-zi-ik-ke-ez-zi
 1-2	TI-an-za-aš	—	—	—	—	-	-	-	-
 1	TI-an-za	ḫuišwant-	ADJ	—	Case=Nom|Gender=Com|Num=Sing	-	-	-	-
 2	aš	-aš		—	PRON	-	-	-	-
@@ -70,8 +70,8 @@
 11	TI-an-na-aš	ḫuišwatar	NOUN	—	Case=Gen|Gender=Neut|Num=Sing	-	-	-	-
 12	az-zi-ik-ke-ez-zi	ēd-	VERB	—	Aspect=Imp|Num=Sing|Person=3|Tense=Pres|Voice=Act	-	-	-	-
 
-# sentid=6.15
-# text=ḫar-na-u-aš-za ku-it MUNUS-za A-NA DINGIR-LIM EN-YA še-er SAG.DU-za šar-ni-in-kán ḫar-mi
+# sent_id = 6.15
+# text = ḫar-na-u-aš-za ku-it MUNUS-za A-NA DINGIR-LIM EN-YA še-er SAG.DU-za šar-ni-in-kán ḫar-mi
 1-2	ḫar-na-u-aš-za	—	—	—	—	-	-	-	-
 1	ḫar-na-u-aš	ḫarnau-	NOUN	—	Case=Gen|Gender=Com|Num=Sing	-	-	-	-
 2	za	-za	PART	—	—	-	-	-	-
@@ -89,8 +89,8 @@
 12	šar-ni-in-kán	šarnink-	VERB	—	Gender=Neut|VerbForm=Part	-	-	-	-
 13	ḫar-mi	ḫar(k)-	AUX	—	—	-	-	-	-
 
-# sentid=7.3
-# text=nu-kán LÚ.MEŠ IGI.NU.GÁL.ḪI.A ḫu-u-ma-an-te-eš URU-Ša-pí-nu-wa ša-ra-a pé-ḫu-te-er
+# sent_id = 7.3
+# text = nu-kán LÚ.MEŠ IGI.NU.GÁL.ḪI.A ḫu-u-ma-an-te-eš URU-Ša-pí-nu-wa ša-ra-a pé-ḫu-te-er
 1-2	nu-kán	—	—	—	—	-	-	-	-
 1	nu	nu	CCONJ	—	—	-	-	-	-
 2	kán	-kan	PART	—	—	-	-	-	-
@@ -101,8 +101,8 @@
 7	ša-ra-a	šarā	ADV	—	—	-	-	-	-
 8	pé-ḫu-te-er	peḫute-	VERB	—	Num=Pl|Person=3|Tense=Pret|Voice=Act	-	-	-	-
 
-# sentid=7.4
-# text=ú-i-il-na-aš ÉRIN.MEŠ-an te-eš-šu-um-mi-uš-ša ta-ak-na-a ḫa-ri-e-mi tu-uš tar-ma-e-mi
+# sent_id = 7.4
+# text = ú-i-il-na-aš ÉRIN.MEŠ-an te-eš-šu-um-mi-uš-ša ta-ak-na-a ḫa-ri-e-mi tu-uš tar-ma-e-mi
 1	ú-i-il-na-aš	wil(a)n-	NOUN	—	Case=Gen|Gender=Com|Num=Sing	-	-	-	-
 2	ÉRIN.MEŠ-an	ÉRIN.MEŠ-t-	NOUN	—	Case=Acc|Gender=Com	-	-	-	-
 3-4	te-eš-šu-um-mi-uš-š-a	—	—	—	—	-	-	-	-
@@ -115,8 +115,8 @@
 8	u-uš	-at	PRON	—	Case=Acc|Gender=Com|Num=Pl|Person=3	-	-	-	-
 9	tar-ma-e-mi	tarmāi-	VERB	—	Num=Sing|Person=1|Tense=Pres|Voice=Act	-	-	-	-
 
-# sentid=7.5
-# text=a-še-eš-šar ša-ra-a ti-ya-zi nu LÚ.MEŠ-ZABAR.DAB a-še-eš-ni a-ku-wa-an-na pí-an-zi
+# sent_id = 7.5
+# text = a-še-eš-šar ša-ra-a ti-ya-zi nu LÚ.MEŠ-ZABAR.DAB a-še-eš-ni a-ku-wa-an-na pí-an-zi
 1	a-še-eš-šar	ašeššar	NOUN	—	Case=Nom|Gender=Neut|Num=Sing	-	-	-	-
 2	ša-ra-a	šarā	ADV	—	—	-	-	-	-
 3	ti-ya-zi	tiya-	VERB	—	Num=Sing|Person=3|Tense=Pres|Voice=Act	-	-	-	-
@@ -126,8 +126,8 @@
 7	a-ku-wa-an-na	eku-	VERB	—	VerbForm=Inf	-	-	-	-
 8	pí-an-zi	pai-	VERB	—	Num=Pl|Person=3|Tense=Pres|Voice=Act	-	-	-	-
 
-# sentid=7.6
-# text=URU-Kap-pé-e-ri-in-ma-za URU-Ka-a-ra-aš-šu-wa-an URU-Ḫur-na-an-na ar-kam-ma-na-aš i-ya-nu-un nu URU-Ḫa-at-tu-ši GEŠTIN-an ar-kam-ma-na-an-ni pé-e ḫar-ker
+# sent_id = 7.6
+# text = URU-Kap-pé-e-ri-in-ma-za URU-Ka-a-ra-aš-šu-wa-an URU-Ḫur-na-an-na ar-kam-ma-na-aš i-ya-nu-un nu URU-Ḫa-at-tu-ši GEŠTIN-an ar-kam-ma-na-an-ni pé-e ḫar-ker
 1-3	URU-Kap-pé-e-ri-in-ma-za	—	—	—	—	-	-	-	-
 1	URU-Kap-pé-e-ri-in	Kappēri	PROPN	—	Case=Acc	-	-	-	-
 2	ma	-ma	CCONJ	—	—	-	-	-	-
@@ -145,8 +145,8 @@
 13	pé-e	pē	ADV	—	—	-	-	-	-
 14	ḫar-ker	ḫar(k)-	VERB	—	Num=Pl|Person=3|Tense=Pret|Voice=Act	-	-	-	-
 
-# sentid=7.7
-# text=GUD-un-aš-ta ḫa-a-li-az a-ap-pa Ú-UL ku-uš-ša-an-ka kar-šu-un UDU-un-aš-ta a-ša-ú-na-az EGIR-pa KI.MIN
+# sent_id = 7.7
+# text = GUD-un-aš-ta ḫa-a-li-az a-ap-pa Ú-UL ku-uš-ša-an-ka kar-šu-un UDU-un-aš-ta a-ša-ú-na-az EGIR-pa KI.MIN
 1-2	GUD-un-aš-ta	—	—	—	—	-	-	-	-
 1	GUD-un	GUD-u-	NOUN	—	Case=Acc|Gender=Com|Num=Sing	-	-	-	-
 2	aš-ta	-ašta	PART	—	—	-	-	-	-
@@ -162,8 +162,8 @@
 11	EGIR-pa	āppa	ADV	—	—	-	-	-	-
 12	KI.MIN	KI.MIN	ADV	—	—	-	-	-	-
 
-# sentid=7.8
-# text=A-NA DUMU.NAM.LÚ.U19.LU-pát-kán an-da me-mi-an kiš-an me-mi-iš-kán-zi ḫar-na-a-u-wa-aš-wa MUNUS-ni-i DINGIR-LUM ka-a-ri ti-ya-zi
+# sent_id = 7.8
+# text = A-NA DUMU.NAM.LÚ.U19.LU-pát-kán an-da me-mi-an kiš-an me-mi-iš-kán-zi ḫar-na-a-u-wa-aš-wa MUNUS-ni-i DINGIR-LUM ka-a-ri ti-ya-zi
 1	A-NA	ANA	ADP	—	—	-	-	-	-
 2-5	DUMU-NAM.LÚ.U19.LU-pát-kán	—	—	—	—	-	-	-	-
 2	DUMU	DUMU-a-	NOUN	—	Gender=Com	-	-	-	-
@@ -182,8 +182,8 @@
 14	ka-a-ri	kāri	ADV	—	—	-	-	-	-
 15	ti-ya-zi	tiya-	VERB	—	Num=Sing|Person=3|Tense=Pres|Voice=Act	-	-	-	-
 
-# sentid=7.10
-# text=KUR URU-Ḫa-pa-al-la-ma-az li-in-ki-ya kat-ta-an ki-iš-ša-an zi-ik-ke-eš … nam-ma-ma-kán KUR URU-Ḫa-pa-a-al-la ku-en-ta-ya Ú-UL e-ep-ta-ya-at Ú-UL
+# sent_id = 7.10
+# text = KUR URU-Ḫa-pa-al-la-ma-az li-in-ki-ya kat-ta-an ki-iš-ša-an zi-ik-ke-eš … nam-ma-ma-kán KUR URU-Ḫa-pa-a-al-la ku-en-ta-ya Ú-UL e-ep-ta-ya-at Ú-UL
 1	KUR	utnē-	NOUN	—		-	-	-	-
 2-4	URU-Ḫa-pa-al-la-ma-a-z	—	—	—	—	-	-	-	-
 2	URU-Ḫa-pa-al-la	Ḫapalla	PROPN	—	—	-	-	-	-
@@ -210,8 +210,8 @@
 20	at	-aš	PRON	—	Case=Acc|Gender=Neut|Num=Sing	-	-	-	-
 21	Ú-UL	natta	PART	—	—	-	-	-	-
 
-# sentid=7.13
-# text=na-aš-ta É-ri an-da la-aḫ-ḫa-an-za-na-aš-MUŠEN ḫi-<im->mu-uš i-ya-an-zi nu ŠA GIŠ.ḪI.A 10 la-<aḫ->ḫa-an-za-MUŠEN i-ya-an-za nu-uš IŠ-TU KÙ.BABBAR ḫa-liš-ši-ya-an-zi
+# sent_id = 7.13
+# text = na-aš-ta É-ri an-da la-aḫ-ḫa-an-za-na-aš-MUŠEN ḫi-<im->mu-uš i-ya-an-zi nu ŠA GIŠ.ḪI.A 10 la-<aḫ->ḫa-an-za-MUŠEN i-ya-an-za nu-uš IŠ-TU KÙ.BABBAR ḫa-liš-ši-ya-an-zi
 1-2	n-a-aš-ta	—	—	—	—	-	-	-	-
 1	n	nu	CCONJ	—	—	-	-	-	-
 2	a-aš-ta	-ašta	PART	—	—	-	-	-	-
@@ -233,8 +233,8 @@
 17	KÙ.BABBAR	KÙ.BABBAR-i-	NOUN	—	Gender=Neut	-	-	-	-
 18	ḫa-liš-ši-ya-an-zi	ḫališšiya-	VERB	—	Num=Pl|Person=3|Tense=Pres|Voice=Act	-	-	-	-
 
-# sentid=8.1
-# text=nu-kán A-NA ALAM 1 GUD.NIGA 7 UDU.ḪI.A-ya ši-pa-an-da-an-zi 1 UDU ták-na-aš d-UTU-i 1 UDU d-UTU ŠA-ME-E 2 UDU ḫu-uḫ-ḫa-aš ḫa-an-na-aš 2 UDU 1 GUD.NIGA ak-kán-ta-aš ZI-ni 1 UDU-ma-kán A-NA d-UD.SIG5 ši-pa-an-da-an-zi
+# sent_id = 8.1
+# text = nu-kán A-NA ALAM 1 GUD.NIGA 7 UDU.ḪI.A-ya ši-pa-an-da-an-zi 1 UDU ták-na-aš d-UTU-i 1 UDU d-UTU ŠA-ME-E 2 UDU ḫu-uḫ-ḫa-aš ḫa-an-na-aš 2 UDU 1 GUD.NIGA ak-kán-ta-aš ZI-ni 1 UDU-ma-kán A-NA d-UD.SIG5 ši-pa-an-da-an-zi
 1-2	nu-kán	—	—	—	—	-	-	-	-
 1	nu	nu	CCONJ	—	—	-	-	-	-
 2	kán	-kan	PART	—	—	-	-	-	-
@@ -274,8 +274,8 @@
 34	d-UD.SIG5	UD.SIG5	PROPN	—	—	-	-	-	-
 35	ši-pa-an-da-an-zi	šipand-	VERB	—	Num=Pl|Person=3|Tense=Pres|Voice=Act	-	-	-	-
 
-# sentid=8.3
-# text=LUGAL-uš ḫu-u-up-pa-ri ši-pa-an-ti MUNUS.LUGAL-ša na-at-ta
+# sent_id = 8.3
+# text = LUGAL-uš ḫu-u-up-pa-ri ši-pa-an-ti MUNUS.LUGAL-ša na-at-ta
 1	LUGAL-uš	ḫaššu-	NOUN	—	Case=Nom|Gender=Com|Num=Sing	-	-	-	-
 2	ḫu-u-up-pa-ri	ḫuppar-	NOUN	—	Case=Dat|Gender=Com|Num=Sing	-	-	-	-
 3	ši-pa-an-ti	šipand-	VERB	—	Num=Sing|Person=3|Tense=Pres|Voice=Act	-	-	-	-
@@ -284,8 +284,8 @@
 5	a	-a	CCONJ	—	—	-	-	-	-
 6	na-at-ta	natta	PART	—	—	-	-	-	-
 
-# sentid=8.6
-# text=ták-ku MUNUS-[za ḫ]a-a-ši nu an-na-az-pát ŠÀ-az [a-]i-iš ar-ḫa ḫa-a-ši nu me-ma-i d-U-aš KUR-e za-a-ḫi
+# sent_id = 8.6
+# text = ták-ku MUNUS-[za ḫ]a-a-ši nu an-na-az-pát ŠÀ-az [a-]i-iš ar-ḫa ḫa-a-ši nu me-ma-i d-U-aš KUR-e za-a-ḫi
 1	ták-ku	takku	SCONJ	—	—	-	-	-	-
 2-3	MUNUS-[za	—	—	—	—	-	-	-	-
 2	MUNUS	MUNUS-n-	NOUN	—	Case=Nom|Gender=Com|Num=Sing	-	-	-	-
@@ -305,11 +305,11 @@
 15	KUR-e	utnē-	NOUN	—	Case=All|Gender=Neut|Num=Sing	-	-	-	-
 16	za-a-ḫi	zaḫ(ḫ)-	VERB	—	Num=Sing|Person=3|Tense=Pres|Voice=Act	-	-	-	-
 
-# sentid=8.7
-# text=ták-ku LÚ GIŠ-TUKUL-aš A.ŠÀ.ḪI.A-ŠU ḫu-u-ma-an-da-an ku-iš-ki wa-a-ši lu-uz-zi kar-pí-ez-zi
+# sent_id = 8.7
+# text = ták-ku LÚ GIŠ-TUKUL-aš A.ŠÀ.ḪI.A-ŠU ḫu-u-ma-an-da-an ku-iš-ki wa-a-ši lu-uz-zi kar-pí-ez-zi
 
-# sentid=8.8
-# text=URU-Kat-ti-ti-mu-wa-aš-ma-mu ták-šu-ul e-eš-ta na-an-kán iš-tar-na ar-ḫa pa-a-un nu URU-Tág-ga-aš-ta GUL-aḫ-ḫu-un
+# sent_id = 8.8
+# text = URU-Kat-ti-ti-mu-wa-aš-ma-mu ták-šu-ul e-eš-ta na-an-kán iš-tar-na ar-ḫa pa-a-un nu URU-Tág-ga-aš-ta GUL-aḫ-ḫu-un
 1-3	URU-Kat-ti-ti-mu-wa-aš-ma-mu	—	—	—	—	-	-	-	-
 1	URU-Kat-ti-ti-mu-wa-aš	Kattitimuwa	PROPN	—	—	-	-	-	-
 2	ma	-ma	CCONJ	—	—	-	-	-	-
@@ -327,8 +327,8 @@
 13	URU-Tág-ga-aš-ta	Taggašta	PROPN	—	—	-	-	-	-
 14	GUL-aḫ-ḫu-un	walḫ-	VERB	—	Num=Sing|Person=1|Tense=Pret|Voice=Act	-	-	-	-
 
-# sentid=8.12
-# text=ša-ra-a-kán ú-wa-ši ne-pí-ša-aš d-UTU-uš a-ru-na-az nu-uš-ša-an ne-pí-ši ti-ya-ši
+# sent_id = 8.12
+# text = ša-ra-a-kán ú-wa-ši ne-pí-ša-aš d-UTU-uš a-ru-na-az nu-uš-ša-an ne-pí-ši ti-ya-ši
 1-2	ša-ra-a-kán	—	—	—	—	-	-	-	-
 1	ša-ra-a	šarā	ADV	—	—	-	-	-	-
 2	kán	-kan	PART	—	—	-	-	-	-
@@ -342,8 +342,8 @@
 9	ne-pí-ši	nepiš-	NOUN	—	Case=Dat|Gender=Com|Num=Sing	-	-	-	-
 10	ti-ya-ši	tiya-	VERB	—	Num=Sing|Person=2|Tense=Pres|Voice=Act	-	-	-	-
 
-# sentid=8.13
-# text=nu ZAG še-ek-kán-te-et ZI-it an-da le-e ku-iš-ki za-a-ḫi
+# sent_id = 8.13
+# text = nu ZAG še-ek-kán-te-et ZI-it an-da le-e ku-iš-ki za-a-ḫi
 1	nu	nu	CCONJ	—	—	-	-	-	-
 2	ZAG	irḫa-	NOUN	—	Case=Acc|Gender=Com|Num=Sing	-	-	-	-
 3	še-ek-kán-te-et	šakk-	VERB	—	Case=Ins|Gender=Com|Num=Sing|VerbForm=Part	-	-	-	-
@@ -353,8 +353,8 @@
 7	ku-iš-ki	kuiški	PRON	—	Case=Nom|Gender=Com|Num=Sing	-	-	-	-
 8	za-a-ḫi	zaḫ(ḫ)-	VERB	—	Num=Sing|Person=3|Tense=Pres|Voice=Act	-	-	-	-
 
-# sentid=8.15
-# text=ták-ku ḫa-an-ne-eš-na-aš iš-ḫa-a-aš le-e-la-ni-at-ta šar-ti-an-na wa-al-aḫ-zi na-aš a-ki šar-ni-ik-zi-il NU.GÁL
+# sent_id = 8.15
+# text = ták-ku ḫa-an-ne-eš-na-aš iš-ḫa-a-aš le-e-la-ni-at-ta šar-ti-an-na wa-al-aḫ-zi na-aš a-ki šar-ni-ik-zi-il NU.GÁL
 1	ták-ku	takku	SCONJ	—	—	-	-	-	-
 2	ḫa-an-ne-eš-na-aš	ḫanneššar	NOUN	—	Case=Gen|Gender=Neut|Num=Sing	-	-	-	-
 3	iš-ḫa-a-aš	išḫa-	NOUN	—	Case=Nom|Gender=Com|Num=Sing	-	-	-	-
@@ -370,8 +370,8 @@
 11	šar-ni-ik-zi-il	šarnikzil-	NOUN	—	Case=Nom|Gender=Com|Num=Sing	-	-	-	-
 12	NU.GÁL	NU.GÁL	PART	—	—	-	-	-	-
 
-# sentid=9.1
-# text=DUMU.É.GAL-iš d-Ḫa-an-ta-še-pa-an LUGAL-i ki-iš-ša-ri-i da-a-i te-eš-šu-um-me-in-na pa-a-i
+# sent_id = 9.1
+# text = DUMU.É.GAL-iš d-Ḫa-an-ta-še-pa-an LUGAL-i ki-iš-ša-ri-i da-a-i te-eš-šu-um-me-in-na pa-a-i
 1	DUMU.É.GAL-iš	DUMU.É.GAL-i	NOUN	—	Case=Nom|Gender=Com|Num=Sing	-	-	-	-
 2	d-Ḫa-an-ta-še-pa-an	Ḫantašepa	PROPN	—	Case=Acc	-	-	-	-
 3	LUGAL-i	ḫaššu-	NOUN	—	Case=Dat|Gender=Com|Num=Sing	-	-	-	-
@@ -382,8 +382,8 @@
 7	a	-a	CCONJ	—	—	-	-	-	-
 8	pa-a-i	pai-	VERB	—	Num=Sing|Person=3|Tense=Pres|Voice=Act	-	-	-	-
 
-# sentid=9.3
-# text=nu ku-it-ma-an A-NA LÚ-SANGA pa-a-an-zi ku-it-ma-an LÚ-SANGA URU-Aš-ta-ta-za ú-wa-da-an-zi ku-it-ma-an ú-wa-an-zi ŠA DINGIR-LIM ša-ak-la-uš ta-ni-nu-wa-an-zi
+# sent_id = 9.3
+# text = nu ku-it-ma-an A-NA LÚ-SANGA pa-a-an-zi ku-it-ma-an LÚ-SANGA URU-Aš-ta-ta-za ú-wa-da-an-zi ku-it-ma-an ú-wa-an-zi ŠA DINGIR-LIM ša-ak-la-uš ta-ni-nu-wa-an-zi
 1	nu	nu	CCONJ	—	—	-	-	-	-
 2	ku-it-ma-an	kuitman	SCONJ	—	—	-	-	-	-
 3	A-NA	ANA	ADP	—	—	-	-	-	-
@@ -400,8 +400,8 @@
 14	ša-ak-la-uš	šakl(a)i-	NOUN	—	Case=Acc|Gender=Com|Num=Pl	-	-	-	-
 15	ta-ni-nu-wa-an-zi	taninu-	VERB	—	Num=Pl|Person=3|Tense=Pres|Voice=Act	-	-	-	-
 
-# sentid=9.4
-# text=DUMU.É.GAL LUGAL-i pé-ra-an ḫu-wa-a-i na-aš ú-ez-zi DAM LÚ-GUDU12-aš kat-ta ti-i-e-ez-zi
+# sent_id = 9.4
+# text = DUMU.É.GAL LUGAL-i pé-ra-an ḫu-wa-a-i na-aš ú-ez-zi DAM LÚ-GUDU12-aš kat-ta ti-i-e-ez-zi
 1	DUMU.É.GAL	DUMU.É.GAL-i-	NOUN	—	Case=Nom|Gender=Com|Num=Sing	-	-	-	-
 2	LUGAL-i	ḫaššu-	NOUN	—	Case=Dat|Gender=Com|Num=Sing	-	-	-	-
 3	pé-ra-an	peran	ADP	—	—	-	-	-	-
@@ -415,17 +415,17 @@
 10	kat-ta	katta	ADP	—	—	-	-	-	-
 11	ti-i-e-ez-zi	tiya-	VERB	—	Num=Sing|Person=3|Tense=Pres|Voice=Act	-	-	-	-
 
-# sentid=9.6
-# text=ma-a-an-wa-ra-an Ú-UL-ma e-ep-te-e-ni nu-wa-ra-an-mu pa-ra-a Ú-UL pé-eš-te-e-ni nu-wa ú-wa-mi nu-wa-aš-ma-aš QA-DU KUR-KU-NU ar-ḫa ḫar-ni-ik-mi
+# sent_id = 9.6
+# text = ma-a-an-wa-ra-an Ú-UL-ma e-ep-te-e-ni nu-wa-ra-an-mu pa-ra-a Ú-UL pé-eš-te-e-ni nu-wa ú-wa-mi nu-wa-aš-ma-aš QA-DU KUR-KU-NU ar-ḫa ḫar-ni-ik-mi
 
-# sentid=9.7
-# text=[le-e ku-i]š-ki te-ez-zi LUGAL-ša du-ud-du-mi-li kar-di-ya-aš-ša-aš [i-e-ez-zi]
+# sent_id = 9.7
+# text = [le-e ku-i]š-ki te-ez-zi LUGAL-ša du-ud-du-mi-li kar-di-ya-aš-ša-aš [i-e-ez-zi]
 
-# sentid=9.12
-# text=ma-a-an I-NA UD.15.KAM d-SIN-aš a-ki KUR-e an-da ma-ša-aš pa-ra-a-i BURU14.ḪI.A ka-ra-a-pí
+# sent_id = 9.12
+# text = ma-a-an I-NA UD.15.KAM d-SIN-aš a-ki KUR-e an-da ma-ša-aš pa-ra-a-i BURU14.ḪI.A ka-ra-a-pí
 
-# sentid=9.13
-# text=UGULA LÚ GIŠ-BANŠUR GIŠ-BANŠUR GIŠ-AB-ya pé-ra-an da-a-i nu-uš-ša-an 2 NINDA.GUR4.RA.ḪI.A GAL 10 NINDA.GUR4.RA TUR GIŠ-BANŠUR-i da-a-i
+# sent_id = 9.13
+# text = UGULA LÚ GIŠ-BANŠUR GIŠ-BANŠUR GIŠ-AB-ya pé-ra-an da-a-i nu-uš-ša-an 2 NINDA.GUR4.RA.ḪI.A GAL 10 NINDA.GUR4.RA TUR GIŠ-BANŠUR-i da-a-i
 1	UGULA	UGULA	NOUN	—	com	-	-	-	-
 2	LÚ	pišna/i-	NOUN	—	com	-	-	-	-
 3	GIŠ-BANŠUR	GIŠ-BANŠUR-u-	NOUN	—	com|gen|sg	-	-	-	-
@@ -445,8 +445,8 @@
 16	GIŠ-BANŠUR-i	GIŠ-BANŠUR-u-	NOUN	—	Case=Dat|Gender=Com|Num=Sing	-	-	-	-
 17	da-a-i	dai-	VERB	—	Num=Sing|Person=3|Tense=Pres|Voice=Act	-	-	-	-
 
-# sentid=9.14
-# text=nu ḫa-aš-ta-a-e [an-d]a li-iš-ša-an-zi na-at ḫa-aš-ši-i a-wa-an kat-ta ti-an-zi
+# sent_id = 9.14
+# text = nu ḫa-aš-ta-a-e [an-d]a li-iš-ša-an-zi na-at ḫa-aš-ši-i a-wa-an kat-ta ti-an-zi
 1	nu	nu	CCONJ	—	—	-	-	-	-
 2	ḫa-aš-ta-a-e	ḫaštai-	NOUN	—	Case=Acc|Gender=Neut|Num=Pl	-	-	-	-
 3	[an-d]a	anda	ADV	—	—	-	-	-	-
@@ -459,8 +459,8 @@
 9	kat-ta	katta	ADV	—	—	-	-	-	-
 10	ti-an-zi	dai-	VERB	—	Num=Pl|Person=3|Tense=Pres|Voice=Act	-	-	-	-
 
-# sentid=9.15
-# text=nu-kán ma-aḫ-ḫa-an [m-Ar-nu-wa-a]n-da-aš m-Zi-ta-aš-ša KUR-e kat-ta-an-da a-ra-an-zi [nu LÚ-KÚR-aš] za-aḫ-ḫi-ya me-na-aḫ-ḫa-an-da ú-ez-zi
+# sent_id = 9.15
+# text = nu-kán ma-aḫ-ḫa-an [m-Ar-nu-wa-a]n-da-aš m-Zi-ta-aš-ša KUR-e kat-ta-an-da a-ra-an-zi [nu LÚ-KÚR-aš] za-aḫ-ḫi-ya me-na-aḫ-ḫa-an-da ú-ez-zi
 1-2	nu-kán	—	—	—	—	-	-	-	-
 1	nu	nu	CCONJ	—	—	-	-	-	-
 2	kán	-kan	PART	—	—	-	-	-	-
@@ -478,44 +478,44 @@
 13	me-na-aḫ-ḫa-an-da	menaḫḫanda	ADV	—	—	-	-	-	-
 14	ú-ez-zi	uwa-	VERB	—	Num=Sing|Person=3|Tense=Pres|Voice=Act	-	-	-	-
 
-# sentid=10.1
-# text=nu A-BU-ŠU ku-e-el wa-aš-ta-i kat-ta-ma DUMU-ŠU Ú-UL wa-aš-du-la-aš-pát nu-uš-ši-kán É A-BI-ŠU ar-ḫa da-an-zi
+# sent_id = 10.1
+# text = nu A-BU-ŠU ku-e-el wa-aš-ta-i kat-ta-ma DUMU-ŠU Ú-UL wa-aš-du-la-aš-pát nu-uš-ši-kán É A-BI-ŠU ar-ḫa da-an-zi
 
-# sentid=10.2
-# text=ták-ku ÌR-aš ḫu-wa-a-i na-aš A-NA KUR Lu-ú-i-ya pa-iz-zi ku-i-ša-an a-ap-pa ú-wa-te-ez-zi nu-uš-še 6 GÍN KÙ.BABBAR pa-a-i
+# sent_id = 10.2
+# text = ták-ku ÌR-aš ḫu-wa-a-i na-aš A-NA KUR Lu-ú-i-ya pa-iz-zi ku-i-ša-an a-ap-pa ú-wa-te-ez-zi nu-uš-še 6 GÍN KÙ.BABBAR pa-a-i
 
-# sentid=10.3
-# text=d-IŠKUR-aš d-NIN.TU-ni te-e-et ma-a-aḫ-ḫa-an i-ya-u-e-ni ki-iš-ta-an-ti-it ḫar-ku-e-ni
+# sent_id = 10.3
+# text = d-IŠKUR-aš d-NIN.TU-ni te-e-et ma-a-aḫ-ḫa-an i-ya-u-e-ni ki-iš-ta-an-ti-it ḫar-ku-e-ni
 
-# sentid=10.4
-# text=GUD pu-u-ḫu-ga-ri-in-ma ku-e-da-ni UD-ti ú-nu-e-er nu-za d-UTU-ŠI a-pé-e-da-ni UD-ti wa-ar-ap-ta
+# sent_id = 10.4
+# text = GUD pu-u-ḫu-ga-ri-in-ma ku-e-da-ni UD-ti ú-nu-e-er nu-za d-UTU-ŠI a-pé-e-da-ni UD-ti wa-ar-ap-ta
 
-# sentid=10.5
-# text=nu ma-aḫ-ḫa-an MU.KAM-za me-ḫur ti-ya-zi še-li-aš šu-un-nu-ma-an-zi nu-kán BI-IB-RU ŠA d-LIŠ URU-Ša-mu-ḫa URU-Ḫa-at-tu-ša-za kat-ta ú-da-an-zi
+# sent_id = 10.5
+# text = nu ma-aḫ-ḫa-an MU.KAM-za me-ḫur ti-ya-zi še-li-aš šu-un-nu-ma-an-zi nu-kán BI-IB-RU ŠA d-LIŠ URU-Ša-mu-ḫa URU-Ḫa-at-tu-ša-za kat-ta ú-da-an-zi
 
-# sentid=10.6
-# text=nu DUG-ḫar-ši-ya-al-li ḫé-e-ša-an-zi še-li-uš-ma šu-un-na-an[-zi] nu-kán DUG-ḫar-ši-ya-al-l[i] ḫal-ki-ya-aš-ša šu-un-na-a[n-zi] ŠA GEŠTIN-ya-kán šu-un-n[a-an-zi]
+# sent_id = 10.6
+# text = nu DUG-ḫar-ši-ya-al-li ḫé-e-ša-an-zi še-li-uš-ma šu-un-na-an[-zi] nu-kán DUG-ḫar-ši-ya-al-l[i] ḫal-ki-ya-aš-ša šu-un-na-a[n-zi] ŠA GEŠTIN-ya-kán šu-un-n[a-an-zi]
 
-# sentid=10.7
-# text=ÌR-YA-ma-wa nu-u-ma-an da-aḫ-ḫi nu-wa-ra-an-za-an LÚ-MU-TI4-YA i-ya-mi
+# sent_id = 10.7
+# text = ÌR-YA-ma-wa nu-u-ma-an da-aḫ-ḫi nu-wa-ra-an-za-an LÚ-MU-TI4-YA i-ya-mi
 
-# sentid=10.9
-# text=ku-it-wa-ra-aš ú-ez-zi AN-aš d-UTU-uš [KUR-e-aš LÚ-SIPA.UDU-aš ú-ez-zi-m]a-wa-ra-aš ku-e-da-ni me-mi-ya-ni
+# sent_id = 10.9
+# text = ku-it-wa-ra-aš ú-ez-zi AN-aš d-UTU-uš [KUR-e-aš LÚ-SIPA.UDU-aš ú-ez-zi-m]a-wa-ra-aš ku-e-da-ni me-mi-ya-ni
 
-# sentid=10.10
-# text=ki-i-wa ku-it Ú-UL-wa ŠA MUNUS TÚG.NÍG.LÁM.MEŠ
+# sent_id = 10.10
+# text = ki-i-wa ku-it Ú-UL-wa ŠA MUNUS TÚG.NÍG.LÁM.MEŠ
 
-# sentid=10.11
-# text=ták-ku LÚ-aš EL-LUM ḫal-ki-aš ÉSAG-an ta-a-i-ez-zi ÉSAG-ša ḫal-ki-in ú-e-mi-ez-zi ÉSAG-an ḫal-ki-it šu-un-na-i Ù 12 GÍN KÙ.BABBAR pa-a-i
+# sent_id = 10.11
+# text = ták-ku LÚ-aš EL-LUM ḫal-ki-aš ÉSAG-an ta-a-i-ez-zi ÉSAG-ša ḫal-ki-in ú-e-mi-ez-zi ÉSAG-an ḫal-ki-it šu-un-na-i Ù 12 GÍN KÙ.BABBAR pa-a-i
 
-# sentid=10.13
-# text=f.d-IŠTAR-at-ti-iš ku-wa-at-ta im-ma ku-wa-at-ta še-er TUKU.TUKU-u-an-za na-an a-ri-ya-u-e-ni
+# sent_id = 10.13
+# text = f.d-IŠTAR-at-ti-iš ku-wa-at-ta im-ma ku-wa-at-ta še-er TUKU.TUKU-u-an-za na-an a-ri-ya-u-e-ni
 
-# sentid=10.15
-# text=MUNUS.LUGAL f-Pu-du-ḫé-pa-aš-kán ku-wa-pí m-UR.MAḪ.LÚ-in GAL DUB.SAR.MEŠ URU-Ḫa-at-tu-ši A-NA ṬUP-PA-ḪI.A URU-Ki-iz-zu-wa-at-na ša-an-ḫu-u-wa-an-zi ú-e-ri-ya-at na-aš-ta ke-e ṬUP-PA-ḪI.A ŠA EZEN4 ḫi-šu-wa-a-aš a-pí-ya UD-at ar-ḫa a-ni-ya-at
+# sent_id = 10.15
+# text = MUNUS.LUGAL f-Pu-du-ḫé-pa-aš-kán ku-wa-pí m-UR.MAḪ.LÚ-in GAL DUB.SAR.MEŠ URU-Ḫa-at-tu-ši A-NA ṬUP-PA-ḪI.A URU-Ki-iz-zu-wa-at-na ša-an-ḫu-u-wa-an-zi ú-e-ri-ya-at na-aš-ta ke-e ṬUP-PA-ḪI.A ŠA EZEN4 ḫi-šu-wa-a-aš a-pí-ya UD-at ar-ḫa a-ni-ya-at
 
-# sentid=11.4
-# text=zi-ik am-me-el É-na le-e ú-wa-ši ú-ga tu-e-el pár-na Ú-UL ú-wa-a-mi
+# sent_id = 11.4
+# text = zi-ik am-me-el É-na le-e ú-wa-ši ú-ga tu-e-el pár-na Ú-UL ú-wa-a-mi
 1	zi-ik	zik	PRON	—	Case=Nom|Num=Sing|Person=2	-	-	-	-
 2	am-me-el	ūk	PRON	—	Case=Gen|Num=Sing|Person=1	-	-	-	-
 3	É-na	per	NOUN	—	Case=All|Gender=Neut|Number=Sing	-	-	-	-
@@ -529,74 +529,74 @@
 10	Ú-UL	natta	PART	—	—	-	-	-	-
 11	ú-wa-a-mi	uwa-	VERB	—	Num=Sing|Person=1|Tense=Pres|Voice=Act	-	-	-	-
 
-# sentid=11.6
-# text=ma-aḫ-ḫa-an-ma A-BU-YA ŠEŠ-YA ku-in LÚ-tu-u-ḫu-kán-ta-ḫi-ti ti-ya-an ḫar-ta na-an ar-ḫa ti-it-ta-nu-ut nu am-mu-uk LUGAL-ez-na-an-ni ti-it-ta-nu-ut
+# sent_id = 11.6
+# text = ma-aḫ-ḫa-an-ma A-BU-YA ŠEŠ-YA ku-in LÚ-tu-u-ḫu-kán-ta-ḫi-ti ti-ya-an ḫar-ta na-an ar-ḫa ti-it-ta-nu-ut nu am-mu-uk LUGAL-ez-na-an-ni ti-it-ta-nu-ut
 
-# sentid=11.7
-# text=ták-ku ÌR-na-aš na-aš-ma GÉME-aš QA-AS-SÚ na-aš-ma GÌR-ŠU ku-iš-ki [tu-wa-ar-ni-iz-zi] 10 GÍN KÙ.BABBAR pa-a-i
+# sent_id = 11.7
+# text = ták-ku ÌR-na-aš na-aš-ma GÉME-aš QA-AS-SÚ na-aš-ma GÌR-ŠU ku-iš-ki [tu-wa-ar-ni-iz-zi] 10 GÍN KÙ.BABBAR pa-a-i
 
-# sentid=11.8
-# text=ták-ku LÚ.U19.LU-an EL-LAM KIR4-še-et ku-iš-ki wa-a-ki 1 MA.NA KÙ.BABBAR pa-a-i
+# sent_id = 11.8
+# text = ták-ku LÚ.U19.LU-an EL-LAM KIR4-še-et ku-iš-ki wa-a-ki 1 MA.NA KÙ.BABBAR pa-a-i
 
-# sentid=11.9
-# text=zi-ga-az GIŠ-ḫa-tal-ki-iš-na-aš ḫa-me-eš-ḫi-ya-az BABBAR-TIM wa-aš-ša[-ši] BURU14-ma-az iš-ḫar-wa-an-d[a w]a-aš-ša-ši
+# sent_id = 11.9
+# text = zi-ga-az GIŠ-ḫa-tal-ki-iš-na-aš ḫa-me-eš-ḫi-ya-az BABBAR-TIM wa-aš-ša[-ši] BURU14-ma-az iš-ḫar-wa-an-d[a w]a-aš-ša-ši
 
-# sentid=11.11
-# text=LÚ-me-ne-ya-aš ke-e-et-ta ke-e-et-ta G[I-an] ḫu-ut-ti-an-na-a-i tar-na-a-i-ma-an na-at-ta i-i ḫal-zi-iš-ša-a-i
+# sent_id = 11.11
+# text = LÚ-me-ne-ya-aš ke-e-et-ta ke-e-et-ta G[I-an] ḫu-ut-ti-an-na-a-i tar-na-a-i-ma-an na-at-ta i-i ḫal-zi-iš-ša-a-i
 
-# sentid=11.13
-# text=a-du-e-ni a-ku-e-ni nu URU-Ḫa-at-tu-ša i-ya-an-na-aḫ-ḫé LUGAL-ša URU-A-ri-in-na pa-iz-zi
+# sent_id = 11.13
+# text = a-du-e-ni a-ku-e-ni nu URU-Ḫa-at-tu-ša i-ya-an-na-aḫ-ḫé LUGAL-ša URU-A-ri-in-na pa-iz-zi
 
-# sentid=11.14
-# text=NAM.RA.ḪI.A-wa me-ek-ki ú-e-da-u-e-ni GUD.ḪI.A-wa UDU.ḪI.A ANŠE.KUR.RA.ḪI.A ANŠE.GÌR.NUN.NA.ḪI.A ANŠE.MEŠ me-ek-ki na-an-ni-ya-u-e-ni
+# sent_id = 11.14
+# text = NAM.RA.ḪI.A-wa me-ek-ki ú-e-da-u-e-ni GUD.ḪI.A-wa UDU.ḪI.A ANŠE.KUR.RA.ḪI.A ANŠE.GÌR.NUN.NA.ḪI.A ANŠE.MEŠ me-ek-ki na-an-ni-ya-u-e-ni
 
-# sentid=11.15
-# text=ták-ku GUD.ḪI.A A.ŠÀ-ni pa-a-an-zi Ù BE-EL A.ŠÀ ú-e-mi-<ez->zi UD.1.KAM tu-u-ri-ez-zi ma-a-na-aš-ta MUL.ḪI.A-eš ú-en-zi nu-uš a-ap-pa iš-ḫi-iš pé-en-na-i
+# sent_id = 11.15
+# text = ták-ku GUD.ḪI.A A.ŠÀ-ni pa-a-an-zi Ù BE-EL A.ŠÀ ú-e-mi-<ez->zi UD.1.KAM tu-u-ri-ez-zi ma-a-na-aš-ta MUL.ḪI.A-eš ú-en-zi nu-uš a-ap-pa iš-ḫi-iš pé-en-na-i
 
-# sentid=12.2
-# text=nu-mu NAM.RA ku-in pa-ra-a pí-i-e-er na-aš 4 LI-IM NAM.RA e-eš-ta na-an-kán URU-KÙ.BABBAR-ši pa-ra-a ne-eḫ-ḫu-un na-an ar-ḫa ú-wa-te-er
+# sent_id = 12.2
+# text = nu-mu NAM.RA ku-in pa-ra-a pí-i-e-er na-aš 4 LI-IM NAM.RA e-eš-ta na-an-kán URU-KÙ.BABBAR-ši pa-ra-a ne-eḫ-ḫu-un na-an ar-ḫa ú-wa-te-er
 
-# sentid=12.3
-# text=d-IŠTAR-ma-mu GAŠAN-YA Ù-at nu-mu Ù-it ki-i me-mi-iš-ta DINGIR-LIM-ni-wa-at-ta am-mu-uk tar-na-aḫ-ḫi nu-wa le-e na-aḫ-ti
+# sent_id = 12.3
+# text = d-IŠTAR-ma-mu GAŠAN-YA Ù-at nu-mu Ù-it ki-i me-mi-iš-ta DINGIR-LIM-ni-wa-at-ta am-mu-uk tar-na-aḫ-ḫi nu-wa le-e na-aḫ-ti
 
-# sentid=12.5
-# text=ka-ru-ú m-U-uḫ-na-aš LUGAL URU-Za-a-al-pu-wa d-ši-ú-šum-m[i-in] [UR]U-Ne-e-ša-az URU-Za-a-al-pu-wa pé-e-d[a-aš ap-pé]-ez-zi-ya-na m-A-ni-it-ta-aš LUGAL.GAL d-ši-ú-šu[m-(mi-in U)RU-Z]a-a-al-pu-wa-az a-ap-pa URU-Ne-e-ša pé-e-[da-aḫ-ḫu-un]
+# sent_id = 12.5
+# text = ka-ru-ú m-U-uḫ-na-aš LUGAL URU-Za-a-al-pu-wa d-ši-ú-šum-m[i-in] [UR]U-Ne-e-ša-az URU-Za-a-al-pu-wa pé-e-d[a-aš ap-pé]-ez-zi-ya-na m-A-ni-it-ta-aš LUGAL.GAL d-ši-ú-šu[m-(mi-in U)RU-Z]a-a-al-pu-wa-az a-ap-pa URU-Ne-e-ša pé-e-[da-aḫ-ḫu-un]
 
-# sentid=12.6
-# text=BE-LÍ-NI-wa-an-na-aš ŠA URU-A-ri-ip-ša-a i-wa-ar URU-Ḫa-at-tu-ši ša-a-ru-wa-u-wa-an-zi le-e ma-ni-ya-aḫ-ti
+# sent_id = 12.6
+# text = BE-LÍ-NI-wa-an-na-aš ŠA URU-A-ri-ip-ša-a i-wa-ar URU-Ḫa-at-tu-ši ša-a-ru-wa-u-wa-an-zi le-e ma-ni-ya-aḫ-ti
 
-# sentid=12.7
-# text=ták-ku LÚ.U19.LU-an EL-LA-AM ku-iš-ki da-šu-wa-aḫ-ḫi na-aš-ma ZU19-ŠU la-a-ki ka-ru-ú 1 MA.NA KÙ.BABBAR pí-iš-ker ki-nu-na 20 GÍN KÙ.BABBAR pa-a-i
+# sent_id = 12.7
+# text = ták-ku LÚ.U19.LU-an EL-LA-AM ku-iš-ki da-šu-wa-aḫ-ḫi na-aš-ma ZU19-ŠU la-a-ki ka-ru-ú 1 MA.NA KÙ.BABBAR pí-iš-ker ki-nu-na 20 GÍN KÙ.BABBAR pa-a-i
 
-# sentid=12.8
-# text=nu URU-Ne-e-ša-an iš-pa-an-di na-ak-ki-it da-a-aš URU-Ne-e-ša-aš LUGAL-un IṢ-BAT Ù DUMU.MEŠ URU-Ne-e-ša i-da-a-lu na-at-ta ku-e-da-ni-ik-ki ták-ki-iš-ta
+# sent_id = 12.8
+# text = nu URU-Ne-e-ša-an iš-pa-an-di na-ak-ki-it da-a-aš URU-Ne-e-ša-aš LUGAL-un IṢ-BAT Ù DUMU.MEŠ URU-Ne-e-ša i-da-a-lu na-at-ta ku-e-da-ni-ik-ki ták-ki-iš-ta
 
-# sentid=12.9
-# text=nu ke-e KUR.KUR.MEŠ ḫar-ni-in-ku-un a-aš-šu-ma-aš-ši ša-ra-a da-aḫ-ḫu-un nu É-er-mi-it a-aš-ša-u-i-it ša-ra-a šu-un-na-aḫ-ḫu-un
+# sent_id = 12.9
+# text = nu ke-e KUR.KUR.MEŠ ḫar-ni-in-ku-un a-aš-šu-ma-aš-ši ša-ra-a da-aḫ-ḫu-un nu É-er-mi-it a-aš-ša-u-i-it ša-ra-a šu-un-na-aḫ-ḫu-un
 
-# sentid=12.10
-# text=nam-ma-aš-ma-aš-kán ÉRIN.MEŠ iš-ḫi-iḫ-ḫu-un nu-mu ÉRIN.MEŠ pí-iš-ke-u-an da-a-er na-at-mu la-aḫ-ḫi kat-ta-an pa-iš-ga-u-wa-an ti-i-e-er
+# sent_id = 12.10
+# text = nam-ma-aš-ma-aš-kán ÉRIN.MEŠ iš-ḫi-iḫ-ḫu-un nu-mu ÉRIN.MEŠ pí-iš-ke-u-an da-a-er na-at-mu la-aḫ-ḫi kat-ta-an pa-iš-ga-u-wa-an ti-i-e-er
 
-# sentid=12.11
-# text=up-pé-eš-šar-MEŠ-ma-at-ta ku-e up-pa-aḫ-ḫu-un nu ḫu-u-ma-an A-NA LÚ ṬE4-ME-KA ma-ni-ya-[aḫ-ḫu-un]
+# sent_id = 12.11
+# text = up-pé-eš-šar-MEŠ-ma-at-ta ku-e up-pa-aḫ-ḫu-un nu ḫu-u-ma-an A-NA LÚ ṬE4-ME-KA ma-ni-ya-[aḫ-ḫu-un]
 
-# sentid=12.12
-# text=ki-nu-na d-UTU-ŠI tu-uk m-Ku-pa-an-ta-d-LAMMA-an Ú-UL ku-it-ki i-da-la-u-wa-aḫ-ḫu-un
+# sent_id = 12.12
+# text = ki-nu-na d-UTU-ŠI tu-uk m-Ku-pa-an-ta-d-LAMMA-an Ú-UL ku-it-ki i-da-la-u-wa-aḫ-ḫu-un
 
-# sentid=12.13
-# text=nu URU-Ne-ri-iq-qa-aš ku-it IŠ-TU UD-UM m-Ḫa-an-ti-li ar-ḫa ḫar-ga-an-za e-ešta na-an EGIR-pa ú-e-da-[aḫ-ḫu-un]
+# sent_id = 12.13
+# text = nu URU-Ne-ri-iq-qa-aš ku-it IŠ-TU UD-UM m-Ḫa-an-ti-li ar-ḫa ḫar-ga-an-za e-ešta na-an EGIR-pa ú-e-da-[aḫ-ḫu-un]
 
-# sentid=12.15
-# text=nu-kán A-BU-YA ku-e-da-aš A-NA URU.DIDLI.ḪI.A da-an-na-at-t[a-aš EGIR-an A]N.ZA.GÀR ú-e-te-et na-aš LÚ-KÚR da-a-an nam-ma ḫar-ni-[ik-ta]
+# sent_id = 12.15
+# text = nu-kán A-BU-YA ku-e-da-aš A-NA URU.DIDLI.ḪI.A da-an-na-at-t[a-aš EGIR-an A]N.ZA.GÀR ú-e-te-et na-aš LÚ-KÚR da-a-an nam-ma ḫar-ni-[ik-ta]
 
-# sentid=13.2
-# text=ma-a-an-wa A-NA URU-Ne-ri-iq-qa pa-i-wa-ni nu-wa-aš-šan ku-wa-pí e-šu-wa-aš-ta
+# sent_id = 13.2
+# text = ma-a-an-wa A-NA URU-Ne-ri-iq-qa pa-i-wa-ni nu-wa-aš-šan ku-wa-pí e-šu-wa-aš-ta
 
-# sentid=13.4
-# text=d-A-la-lu-uš-ša-an GIŠ-ŠÚ.A-ki e-eš-zi da-aš-šu-ša-aš-ši d-A-nu-uš DINGIR.MEŠ-aš ḫa-an-te-ez-zi-ya-aš-me-iš pé-ra-an-še-et ar-ta
+# sent_id = 13.4
+# text = d-A-la-lu-uš-ša-an GIŠ-ŠÚ.A-ki e-eš-zi da-aš-šu-ša-aš-ši d-A-nu-uš DINGIR.MEŠ-aš ḫa-an-te-ez-zi-ya-aš-me-iš pé-ra-an-še-et ar-ta
 
-# sentid=13.5
-# text=nu-uš-ma-aš-kán d-U-aš d-Da-aš-mi-šu-uš-ša ŠU-za ap-pa-an-da-at
+# sent_id = 13.5
+# text = nu-uš-ma-aš-kán d-U-aš d-Da-aš-mi-šu-uš-ša ŠU-za ap-pa-an-da-at
 1-3	nu-u-š-ma-aš-kán	—	—	—	—	-	-	-	-
 1	nu-u	nu	CCONJ	—	—	-	-	-	-
 2	š-ma-aš	-šmaš	PRON	—	Case=Dat|Num=Pl|Person=3	-	-	-	-
@@ -610,66 +610,66 @@
 8	za	-za	PART	—	—	-	-	-	-
 9	ap-pa-an-da-at	ēpp-	VERB	—	Num=Pl|Person=3|Tense=Pret|Voice=Mid	-	-	-	-
 
-# sentid=13.6
-# text=ma-aḫ-ḫa-an-mu-kán LÚ.MEŠ URU-Du-uq-qa-am-ma me-na-aḫ-ḫa<-an>-da a-ú-e-er na-at-mu me-na-aḫ-ḫa-an-da ú-e-er
+# sent_id = 13.6
+# text = ma-aḫ-ḫa-an-mu-kán LÚ.MEŠ URU-Du-uq-qa-am-ma me-na-aḫ-ḫa<-an>-da a-ú-e-er na-at-mu me-na-aḫ-ḫa-an-da ú-e-er
 
-# sentid=13.7
-# text=[nu-za ŠA KUR URU]-Dur-mi-it-ta URU-Ga-aš-ga-aš da-a-an EGIR-pa ÌR-aḫ-ta-at nu-mu ÉRIN.MEŠ pé-eš-ke-u-an da-a-ir
+# sent_id = 13.7
+# text = [nu-za ŠA KUR URU]-Dur-mi-it-ta URU-Ga-aš-ga-aš da-a-an EGIR-pa ÌR-aḫ-ta-at nu-mu ÉRIN.MEŠ pé-eš-ke-u-an da-a-ir
 
-# sentid=13.9
-# text=nu ak-kán-za ku-e-da-aš uk-tu-ri-ya-aš wa-ra-a-ni nu a-pé-e-da-aš uk-tu-ri-ya-aš a-ra-aḫ-za-an-da 12 NINDA.GUR4.RA.MEŠ GAM ti-ya-an-zi
+# sent_id = 13.9
+# text = nu ak-kán-za ku-e-da-aš uk-tu-ri-ya-aš wa-ra-a-ni nu a-pé-e-da-aš uk-tu-ri-ya-aš a-ra-aḫ-za-an-da 12 NINDA.GUR4.RA.MEŠ GAM ti-ya-an-zi
 
-# sentid=13.12
-# text=[ú-ga A-NA] DINGIR-YA ku-it i-ya-nu-un nu-mu É-YA i-na-ni pé-ra-an pít-tu-li-ya-aš É-er ki-ša-at
+# sent_id = 13.12
+# text = [ú-ga A-NA] DINGIR-YA ku-it i-ya-nu-un nu-mu É-YA i-na-ni pé-ra-an pít-tu-li-ya-aš É-er ki-ša-at
 
-# sentid=13.13
-# text=nu-kán d-Ḫé-pa-du-uš šu-uḫ-ḫa-az kat-ta ma-uš-šu-u-wa-an-zi wa-aq-qa-re-eš ma-an ti-ya-at ma-na-aš-kán šu-uḫ-ḫa-az kat-ta ma-uš-ta-at
+# sent_id = 13.13
+# text = nu-kán d-Ḫé-pa-du-uš šu-uḫ-ḫa-az kat-ta ma-uš-šu-u-wa-an-zi wa-aq-qa-re-eš ma-an ti-ya-at ma-na-aš-kán šu-uḫ-ḫa-az kat-ta ma-uš-ta-at
 
-# sentid=13.14
-# text=UDU.ŠIR-ma ma-a-an ḫar-ga-eš … ma-a-an da-an-ku-wa-e-eš Ú-UL ku-it-ki du-uq-qa-a-ri
+# sent_id = 13.14
+# text = UDU.ŠIR-ma ma-a-an ḫar-ga-eš … ma-a-an da-an-ku-wa-e-eš Ú-UL ku-it-ki du-uq-qa-a-ri
 
-# sentid=13.15
-# text=ma-a-an-wa-mu 1-an DUMU-KA pa-iš-ti ma-an-wa-ra-aš-mu LÚ-MU-TI-YA ki-ša-ri
+# sent_id = 13.15
+# text = ma-a-an-wa-mu 1-an DUMU-KA pa-iš-ti ma-an-wa-ra-aš-mu LÚ-MU-TI-YA ki-ša-ri
 
-# sentid=14.1
-# text=nu-uš-ša-an d-Te-li-pí-nu-uš Ì.DÙG.GA-it pa-ap-pár-ša-an-ta KASKAL-ša i-ya-an-ni
+# sent_id = 14.1
+# text = nu-uš-ša-an d-Te-li-pí-nu-uš Ì.DÙG.GA-it pa-ap-pár-ša-an-ta KASKAL-ša i-ya-an-ni
 
-# sentid=14.2
-# text=nu-mu LÚ.MEŠ URU-Tap-ti-na … me-na-aḫ-ḫa-an-da ú-e-er na-at-mu GÌR.MEŠ-aš kat-ta-an ḫa-a-li-ya-an-da-at
+# sent_id = 14.2
+# text = nu-mu LÚ.MEŠ URU-Tap-ti-na … me-na-aḫ-ḫa-an-da ú-e-er na-at-mu GÌR.MEŠ-aš kat-ta-an ḫa-a-li-ya-an-da-at
 
-# sentid=14.3
-# text=nu ki-iš-ša-an me-mi-er BE-LÍ-NI-wa-an-na-aš le-e ḫar-ni-ik-ti nu-wa-an-na-aš-za ÌR-an-ni da-a nu-wa-an-na-aš-za ÉRIN.MEŠ ANŠE.KUR.RA.ḪI.A i-ya
+# sent_id = 14.3
+# text = nu ki-iš-ša-an me-mi-er BE-LÍ-NI-wa-an-na-aš le-e ḫar-ni-ik-ti nu-wa-an-na-aš-za ÌR-an-ni da-a nu-wa-an-na-aš-za ÉRIN.MEŠ ANŠE.KUR.RA.ḪI.A i-ya
 
-# sentid=14.4
-# text=nu-uš-ma-aš ḪUR.SAG.MEŠ pé-ra-an ták-ša-at-ni-ya-an-ta-ru ÍD.ḪI.A-ma-aš-ma-aš pé-ra-an ar-mi-iz-zi-ya-an-ta-ru
+# sent_id = 14.4
+# text = nu-uš-ma-aš ḪUR.SAG.MEŠ pé-ra-an ták-ša-at-ni-ya-an-ta-ru ÍD.ḪI.A-ma-aš-ma-aš pé-ra-an ar-mi-iz-zi-ya-an-ta-ru
 
-# sentid=14.5
-# text=nu-mu-uš-ša-an ḫu-u-ma-an-da-az pa-aḫ-ši nu ku-iš A-NA d-UTU-ŠI i-da-a-lu-uš tu-uq-qa a-pa-a-aš i-da-a-lu-uš e-eš-du
+# sent_id = 14.5
+# text = nu-mu-uš-ša-an ḫu-u-ma-an-da-az pa-aḫ-ši nu ku-iš A-NA d-UTU-ŠI i-da-a-lu-uš tu-uq-qa a-pa-a-aš i-da-a-lu-uš e-eš-du
 
-# sentid=14.7
-# text=LÚ.MEŠ URU-Nu-ḫaš-ši-wa ku-it ku-u-ru-ur nu-wa-aš-ma-aš i-it ḫal-ki-ḪI.A-uš ar-ḫa ḫar-ni-ik nu-wa-ra-aš-kán an-da ḫa-at-ke-eš-nu-ut
+# sent_id = 14.7
+# text = LÚ.MEŠ URU-Nu-ḫaš-ši-wa ku-it ku-u-ru-ur nu-wa-aš-ma-aš i-it ḫal-ki-ḪI.A-uš ar-ḫa ḫar-ni-ik nu-wa-ra-aš-kán an-da ḫa-at-ke-eš-nu-ut
 
-# sentid=14.8
-# text=nu mi-e-ú-uš ku-i-uš d-UTU-uš tu-u-ri-ya-an ḫar-ši nu-uš-ma-aš ka-a-ša DUMU.NAM.LÚ.U19.LU-aš ḫal-ki-in šu-uḫ-ḫa-aš nu mi-e-wa-aš-ti-iš ka-ri-ip-pa-an-du nu ku-it-ma-an mi-e-ya-wa-aš-te-eš ḫal-ki-in ka-ri-ip-pa-an-zi zi-ga d-UTU-uš ḫu-e-eš
+# sent_id = 14.8
+# text = nu mi-e-ú-uš ku-i-uš d-UTU-uš tu-u-ri-ya-an ḫar-ši nu-uš-ma-aš ka-a-ša DUMU.NAM.LÚ.U19.LU-aš ḫal-ki-in šu-uḫ-ḫa-aš nu mi-e-wa-aš-ti-iš ka-ri-ip-pa-an-du nu ku-it-ma-an mi-e-ya-wa-aš-te-eš ḫal-ki-in ka-ri-ip-pa-an-zi zi-ga d-UTU-uš ḫu-e-eš
 
-# sentid=14.9
-# text=A-NA d-UTU-ŠI-za ag-ga-an-na-aš TI-an-na-aš UN-aš e-eš
+# sent_id = 14.9
+# text = A-NA d-UTU-ŠI-za ag-ga-an-na-aš TI-an-na-aš UN-aš e-eš
 
-# sentid=14.10
-# text=ki-nu-na-wa ka-a-ša DINGIR-LUM 2 TA.ÀM šar-ni-ik-ta nu BE-EL SÍSKUR pár-ku-iš nam-ma e-eš-du
+# sent_id = 14.10
+# text = ki-nu-na-wa ka-a-ša DINGIR-LUM 2 TA.ÀM šar-ni-ik-ta nu BE-EL SÍSKUR pár-ku-iš nam-ma e-eš-du
 
-# sentid=14.11
-# text=ták-ku DUMU LUGAL ḫa-an-te-ez-zi-iš NU.GÁL nu ku-iš ta-a-an pé-e-da-aš DUMU-RU nu LUGAL-uš a-pa-a-aš ki-ša-ru
+# sent_id = 14.11
+# text = ták-ku DUMU LUGAL ḫa-an-te-ez-zi-iš NU.GÁL nu ku-iš ta-a-an pé-e-da-aš DUMU-RU nu LUGAL-uš a-pa-a-aš ki-ša-ru
 
-# sentid=14.12
-# text=nu ma-a-an ku-u-uš li-in-ga-a-uš pa-aḫ-ḫa-aš-du-ma šu-ma-a-ša DINGIR.MEŠ-eš pa-aḫ-ša-an-da-ru
+# sent_id = 14.12
+# text = nu ma-a-an ku-u-uš li-in-ga-a-uš pa-aḫ-ḫa-aš-du-ma šu-ma-a-ša DINGIR.MEŠ-eš pa-aḫ-ša-an-da-ru
 
-# sentid=14.15
-# text=NIM.LÀL te-ri-ya-aš UD-aš mi-u-wa-aš UD-aš KASKAL-an pa-a-an-du
+# sent_id = 14.15
+# text = NIM.LÀL te-ri-ya-aš UD-aš mi-u-wa-aš UD-aš KASKAL-an pa-a-an-du
 
-# sentid=14.16
-# text=nu I-NA URU-A-ri-ip-ša-a an-da-[an za-aḫ-ḫi-ya i-ya-an]-ni-[ya-nu-un] a-ši-ma-kán URU-A-ri-ip-ša-aš [ŠÀ A.A]B.BA ki-it-ta-ri
+# sent_id = 14.16
+# text = nu I-NA URU-A-ri-ip-ša-a an-da-[an za-aḫ-ḫi-ya i-ya-an]-ni-[ya-nu-un] a-ši-ma-kán URU-A-ri-ip-ša-aš [ŠÀ A.A]B.BA ki-it-ta-ri
 
-# sentid=14.17
-# text=nu-uš-ša-[an ḫa-a]n-te-ez-zi-ya GIŠ-BANŠUR-i ku-iš 1 NINDA.GUR4.RA ki-it-ta-at … na-an-ša-an A-NA GIŠ-BANŠUR.GAL … še-er da-a-i
+# sent_id = 14.17
+# text = nu-uš-ša-[an ḫa-a]n-te-ez-zi-ya GIŠ-BANŠUR-i ku-iš 1 NINDA.GUR4.RA ki-it-ta-at … na-an-ša-an A-NA GIŠ-BANŠUR.GAL … še-er da-a-i
 
