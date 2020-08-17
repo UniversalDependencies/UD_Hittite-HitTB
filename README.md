@@ -14,7 +14,7 @@
 
 ## References
 
-* Harry Hoffner and Craig Melchert: A Grammar of the Hittite Language: Part 2: Tutorial
+* Harry A. Hoffner Jr. and H. Craig Melchert: A Grammar of the Hittite Language: Part 2: Tutorial
 
 
 # Changelog
