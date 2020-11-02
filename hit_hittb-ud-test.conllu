@@ -114,7 +114,7 @@
 10	še-er	šēr	ADP	_	_	7	case	_	_
 11	SAG.DU-za	ḫaršar	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	12	obl	_	_
 12	šar-ni-in-kán	šarnink-	VERB	_	Gender=Neut|VerbForm=Part	0	root	_	_
-13	ḫar-mi	ḫar(k)-	AUX	_	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	12	aux	_	_
+13	ḫar-mi	ḫark	AUX	_	Mood=Ind|Number=Sing|Person=1|VerbForm=Fin|Voice=Act	12	aux	_	_
 
 # sent_id = 7.3
 # text = nu=kán LÚ.MEŠ IGI.NU.GÁL.ḪI.A ḫu-u-ma-an-te-eš URU-Ša-pí-nu-wa ša-ra-a pé-ḫu-te-er
@@ -436,7 +436,7 @@
 3	ma	-ma	PART	_	_	5	discourse	_	_
 4	mu	-mu	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	5	obj	_	_
 5	ták-šu-ul	takšul	NOUN	_	Case=Abs|Gender=Neut|Number=Sing	0	root	_	_
-6	e-eš-ta	ēš-	AUX	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+6	e-eš-ta	ēš	AUX	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
 
 # sent_id = 8.8-2
 # text = n=a-an=kán iš-tar-na ar-ḫa pa-a-un
@@ -514,7 +514,7 @@
 9	a-aš	-aš	PRON	_	Case=Nom|Gender=Com|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	_
 10	a-ki	ak(k)-	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	7	ccomp	_	_
 11	šar-ni-ik-zi-il	šarnikzil-	NOUN	_	Case=Nom|Gender=Com|Number=Sing	0	root	_	_
-12	NU.GÁL	NU.GÁL	AUX	_	_	11	cop	_	_
+12	NU.GÁL	NUGÁL	AUX	_	_	11	cop	_	_
 
 # sent_id = 9.1
 # text = DUMU.É.GAL-iš d-Ḫa-an-ta-še-pa-an LUGAL-i ki-iš-ša-ri-i da-a-i te-eš-šu-um-me-in-n=a pa-a-i
@@ -1093,7 +1093,7 @@
 8	LÚ	LÚ	NOUN	_	_	9	clf	_	_
 9	tu-u-ḫu-kán-ta-ḫi-ti	tūḫukantaḫit-	NOUN	_	Case=Dat|Number=Sing	10	iobj	_	_
 10	ti-ya-an	dai-	VERB	_	Gender=Neut|VerbForm=Part	3	acl:relcl	_	_
-11	ḫar-ta	ḫar(k)-	AUX	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	aux	_	_
+11	ḫar-ta	ḫark	AUX	_	Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	aux	_	_
 12-13	n=a-an	_	_	_	_	_	_	_	_
 12	n	nu	PART	_	_	15	discourse:conn	_	_
 13	a-an	-aš	PRON	_	Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
@@ -1310,7 +1310,7 @@
 9	4	4	NUM	_	_	10	compound	_	_
 10	LI-IM	LĪM	NUM	_	_	11	nummod	_	_
 11	NAM.RA	arnuwala-	NOUN	_	Gender=Com|Number=Sing	0	root	_	_
-12	e-eš-ta	ēš-	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	_
+12	e-eš-ta	ēš	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	11	cop	_	_
 
 # sent_id = 12.2-2
 # text = n=a-an=kán URU-KÙ.BABBAR-ši pa-ra-a ne-eḫ-ḫu-un
@@ -1619,7 +1619,7 @@
 8	Ḫa-an-ti-li	Ḫantili	PROPN	_	_	6	nmod	_	_
 9	ar-ḫa	arḫa	ADV	_	_	10	advmod	_	_
 10	ḫar-ga-an-za	ḫark-	VERB	_	VerbForm=Part	15	advcl	_	_
-11	e-ešta	ēš-	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	aux	_	_
+11	e-ešta	ēš	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	10	aux	_	_
 12-13	n=a-an	_	_	_	_	_	_	_	_
 12	n	nu	PART	_	_	15	discourse:conn	_	_
 13	a-an	-aš	PRON	_	Case=Acc|Gender=Com|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
@@ -2021,7 +2021,7 @@
 9	a	-a	PART	_	_	11	discourse	_	_
 10	a-pa-a-aš	apā-	PRON	_	Case=Nom|Gender=Com|Number=Sing|PronType=Dem	11	nsubj	_	_
 11	i-da-a-lu-uš	idālu-	ADJ	_	Case=Nom|Gender=Com|Number=Sing	0	root	_	_
-12	e-eš-du	ēš-	AUX	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	11	cop	_	_
+12	e-eš-du	ēš	AUX	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	11	cop	_	_
 
 # sent_id = 14.7*
 # text = LÚ.MEŠ URU-Nu-ḫaš-ši=wa ku-it ku-u-ru-ur nu=wa-a=š-ma-aš i-it ḫal-ki-ḪI.A-uš ar-ḫa ḫar-ni-ik nu=wa-r=a-aš=kán an-da ḫa-at-ke-eš-nu-ut
@@ -2061,7 +2061,7 @@
 4	d	d	NOUN	_	_	5	clf	_	_
 5	UTU-uš	Ištanu-	PROPN	_	_	6	vocative	_	_
 6	tu-u-ri-ya-an	turiya-	VERB	_	VerbForm=Part	2	acl:relcl	_	_
-7	ḫar-ši	ḫar(k)-	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
+7	ḫar-ši	ḫark	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	6	aux	_	_
 8-9	nu-u=š-ma-aš	_	_	_	_	_	_	_	_
 8	nu-u	nu	PART	_	_	14	discourse:conn	_	_
 9	š-ma-aš	-at	PRON	_	Case=Dat|Gender=Com|Number=Plur|Person=3|PronType=Prs	14	iobj	_	_
@@ -2112,7 +2112,7 @@
 6	ag-ga-an-na-aš	aggātar	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
 7	TI-an-na-aš	ḫuišwātar	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	conj	_	_
 8	UN-aš	antuḫša-	NOUN	_	Case=Nom|Gender=Com|Number=Sing	0	root	_	_
-9	e-eš	ēš-	AUX	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	8	cop	_	_
+9	e-eš	ēš	AUX	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	8	cop	_	_
 
 # sent_id = 14.10-1
 # text = ki-nu-n=a=wa ka-a-ša DINGIR-LUM 2 TA.ÀM šar-ni-ik-ta
@@ -2137,7 +2137,7 @@
 3	SÍSKUR	aniur	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
 4	pár-ku-iš	parkui-	ADJ	_	Case=Nom|Gender=Com|Number=Sing	0	root	_	_
 5	nam-ma	namma	ADV	_	_	4	advmod	_	_
-6	e-eš-du	ēš-	AUX	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	cop	_	_
+6	e-eš-du	ēš	AUX	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin|Voice=Act	4	cop	_	_
 
 # sent_id = 14.11
 # text = ták-ku DUMU LUGAL ḫa-an-te-ez-zi-iš NU.GÁL nu ku-iš ta-a-an pé-e-da-aš DUMU-RU nu LUGAL-uš a-pa-a-aš ki-ša-ru
@@ -2147,7 +2147,7 @@
 2	DUMU	DUMU-(l)a-	NOUN	_	Gender=Com|Number=Sing	4	nsubj	_	_
 3	LUGAL	ḫaššu-	NOUN	_	Case=Gen|Gender=Com|Number=Sing	2	nmod	_	_
 4	ḫa-an-te-ez-zi-iš	ḫantezzi(ya)-	ADJ	_	Case=Nom|Gender=Com|Number=Sing	14	advcl	_	_
-5	NU.GÁL	NU.GÁL	AUX	_	_	4	cop	_	_
+5	NU.GÁL	NUGÁL	AUX	_	_	4	cop	_	_
 6	nu	nu	PART	_	_	10	discourse:conn	_	_
 7	ku-iš	kuiš	PRON	_	Case=Nom|Gender=Com|Number=Sing	10	nsubj	_	_
 8	ta-a-an	dān	NUM	_	NumType=Ord	9	nummod	_	_
