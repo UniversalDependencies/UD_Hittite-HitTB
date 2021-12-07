@@ -1,6 +1,6 @@
 # Summary
 
-This is a small Universal Dependencies treebank for Hittite, containing original sentences from Hoffner and Melchert's tutorial to A Grammar of the Hittite Language.
+UD_Hittite-HitTB is a small Universal Dependencies treebank for Hittite, containing original sentences from Hoffner and Melchert's tutorial to A Grammar of the Hittite Language.
 
 
 # Introduction
