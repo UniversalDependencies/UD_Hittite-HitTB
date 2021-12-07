@@ -1,20 +1,21 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+This is a small Universal Dependencies treebank for Hittite, containing original sentences from Hoffner and Melchert's tutorial to A Grammar of the Hittite Language.
 
 
 # Introduction
 
-...
+This Hittite treebank contains 136 sentences, 1309 words, and 970 (whitespace-separated) tokens. It contains a variety of sentences spanning each of the major periods in Hittite linguistic history: Old Hittite, Middle Hittite, and New Hittite. These are included in one treebank due to the existence of copies that span multiple different eras.
 
 
 # Acknowledgments
 
-...
+We would like to extend our gratitude to David Wright, Professor of Bible and Ancient Near East at
+Brandeis University, for offering his excellent course on Hittite in Spring 2020.
 
 ## References
 
-* Harry A. Hoffner Jr. and H. Craig Melchert: A Grammar of the Hittite Language: Part 2: Tutorial
+* Harry A. Hoffner, Jr. and H. Craig Melchert. 2008b. A Grammar of the Hittite Language. Part 2: Tutorial. Eisenbrauns.
 
 
 # Changelog
@@ -36,6 +37,6 @@ Features: manual native
 Relations: manual native
 Contributors: Andersen, Erik; Rozonoyer, Ben
 Contributing: elsewhere
-Contact: erikandersen@brandeis.edu
+Contact: erik.andersen411@gmail.com
 ===============================================================================
 </pre>
