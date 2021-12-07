@@ -15,7 +15,7 @@ Brandeis University, for offering his excellent course on Hittite in Spring 2020
 
 ## References
 
-* Harry A. Hoffner, Jr. and H. Craig Melchert. 2008b. A Grammar of the Hittite Language. Part 2: Tutorial. Eisenbrauns.
+* Harry A. Hoffner, Jr. and H. Craig Melchert. 2008. A Grammar of the Hittite Language. Part 2: Tutorial. Eisenbrauns.
 
 
 # Changelog
