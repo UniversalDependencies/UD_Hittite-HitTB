@@ -20,13 +20,13 @@ Brandeis University, for offering his excellent course on Hittite in Spring 2020
 
 # Changelog
 
-* 2020-11-15 v2.7
+* 2022-05-15 v2.10
   * Initial release in Universal Dependencies.
 
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.7
+Data available since: UD v2.10
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: grammar-examples
