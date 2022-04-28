@@ -1564,7 +1564,7 @@
 4	la-aḫ-ḫi	laḫḫa-	NOUN	_	Case=Dat|Gender=Com|Number=Sing	6	obl	_	_
 5	kat-ta-an	kattan	ADP	_	_	3	case	_	_
 6	pa-iš-ga-u-wa-an	pai-#1-	VERB	_	VerbForm=Sup	7	xcomp	_	_
-7	ti-i-e-er	dai-	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	6	aux	_	_
+7	ti-i-e-er	dai-	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	0 root	_	_
 
 # sent_id = 12.11
 # text = up-pé-eš-šar-MEŠ=ma-a=t-ta ku-e up-pa-aḫ-ḫu-un nu ḫu-u-ma-an LÚ ṬE4-ME=KA ma-ni-ya-[aḫ-ḫu-un]
