@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>136</sentences><tokens>970</tokens><words>1309</words><fused>256</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>136</sentences><tokens>970</tokens><words>1309</words><fused>256</fused></test>
+  </size>
+  <lemmas unique="423" /><!-- nu, URU, -ma, -aš, -wa, d, -kan, -mu, -a, -miš, -za, kuiš, natta, ANA, pai-#2- -->
+  <forms unique="677" /><!-- nu, URU, d, a, kán, n, ma, mu, ya, ták-ku, A-NA, wa, LÚ, a-an, a-aš -->
+  <fusions unique="205" /><!-- nu=kán, nu=mu, n=a-aš, d-UTU-uš, n=a-an, URU-Ḫa-at-tu-ši, d-UTU-Š=I, n=a-at=mu, nu-u=š-ša-an, A-BU=YA, BE-LÍ=NI=wa-a=n-na-aš, DUG-ḫar-ši-ya-al-li, GIŠ-BANŠUR, GIŠ-BANŠUR-i, LUGAL-š=a -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="15">
+    <tag name="ADJ">21</tag><!-- ELLUM, idālu-, ḫantezzi(ya)-, ḫarki-, IGI.NU.GÁL, TUR, dankui-, dannatta-, daššu-, išḫarwant- -->
+    <tag name="ADP">49</tag><!-- ANA, ŠA, peran, anda, kattan, INA, IŠTU, menaḫḫanda, šēr, QADU -->
+    <tag name="ADV">73</tag><!-- arḫa, āppa, katta, šarā, namma, anda, kinun, parā, dān, karū -->
+    <tag name="AUX">9</tag><!-- ēš, ḫark -->
+    <tag name="CCONJ">88</tag><!-- nu, -a, našma, Ù, ta, mān -->
+    <tag name="DET">16</tag><!-- kuiš, apā-, kā-, mekki, ḫūmant-, aši -->
+    <tag name="INTJ">1</tag><!-- ī -->
+    <tag name="NOUN">387</tag><!-- URU, d, utnē-, šiun(i)-, GIŠ, LÚ, pišna/i-, UDU-u-, per, šiwatt- -->
+    <tag name="NUM">31</tag><!-- 1, 2, me(i)u-, 10, 12, 15, 20, 4, 6, 7 -->
+    <tag name="PART">164</tag><!-- -ma, -wa, nu, -kan, -za, natta, -šan, lē, -ašta, -pat -->
+    <tag name="PRON">146</tag><!-- -aš, -mu, -miš, -šiš, -at, kuiš, kuiški, zik, -šmaš, -naš -->
+    <tag name="PROPN">73</tag><!-- Ištanu-, Ḫattuša, Neša, Aripša, Zalpuwa, Neriqqa, U-a-, Šaušga, Ḫapalla, Alalu -->
+    <tag name="SCONJ">34</tag><!-- takku, mān, maḫḫan, kuitman, kuit, ku-it, nu -->
+    <tag name="VERB">213</tag><!-- pai-#2-, uwa-, dai-, pai-#1-, iya-#1-, tiya-, šunna-, dā-, ḫarnink-, ak(k)- -->
+    <tag name="X">4</tag><!-- … -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="42">
+    <feat name="Aspect" value="Imp" upos="VERB">1</feat><!-- pí-iš-ker -->
+    <feat name="Case" value="Abl" upos="NOUN,PRON,PROPN">15</feat><!-- šu-uḫ-ḫa-az, Ne-e-ša, Ne-e-ša-az, SAG.DU-za, URU-Aš-ta-ta-za, Z]a-a-al-pu-wa-az, a-ru-na-az, a-ša-ú-na-az, an-na-az, ŠU-za -->
+    <feat name="Case" value="Abs" upos="NOUN">7</feat><!-- ḫar-ši-ya-al-li, a-še-eš-šar, lu-uz-zi, me-ḫur, ták-šu-ul, É -->
+    <feat name="Case" value="Acc" upos="ADJ,DET,NOUN,NUM,PRON,PROPN">102</feat><!-- a-an, n-na-aš, LÚ.U19.LU-an, an, ḫal-ki-in, a-aš, a-pu-u-un, ke-e, ku-in, uš -->
+    <feat name="Case" value="All" upos="NOUN,PROPN">4</feat><!-- Za-a-al-pu-wa, pár-na, ta-ak-na-a, É-na -->
+    <feat name="Case" value="Dat" upos="ADJ,DET,NOUN,PRON,PROPN">86</feat><!-- mu, š-ma-aš, š-ši, Ḫa-at-tu-ši, BANŠUR-i, KUR-e, LUGAL-i, UD-ti, ku-e-da-aš, ku-e-da-ni -->
+    <feat name="Case" value="Gen" upos="NOUN,NUM,PRON,PROPN,VERB">48</feat><!-- KUR, TI-an-na-aš, UD-aš, ŠA-ME-E, A-BI, AN-aš, DINGIR-LIM, DINGIR.MEŠ-aš, GIŠ.ḪI.A, GUDU12-aš -->
+    <feat name="Case" value="Ins" upos="NOUN,VERB">9</feat><!-- IGI.ḪI.A-it, ZI-it, a-aš-ša-u-i-it, ki-iš-ta-an-ti-it, na-ak-ki-it, Ì.DÙG.GA-it, Ù-it, še-ek-kán-te-et, ḫal-ki-it -->
+    <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,VERB">120</feat><!-- a-aš, ku-iš-ki, LÚ.MEŠ, a-at, ku-iš, ŠU, A-BU, DINGIR-LUM, LUGAL-uš, MUNUS -->
+    <feat name="Case" value="Voc" upos="PROPN">2</feat><!-- Te-li-pí-nu-uš, UTU-uš -->
+    <feat name="Definite" value="Cons" upos="NOUN">2</feat><!-- BE-EL -->
+    <feat name="Gender" value="Com" upos="ADJ,DET,NOUN,NUM,PRON,VERB">266</feat><!-- a-aš, a-an, DUMU, KÙ.BABBAR, LÚ.MEŠ, ku-iš-ki, ÉRIN.MEŠ, A-BU, LÚ, LÚ.U19.LU-an -->
+    <feat name="Gender" value="Fem" upos="PRON">1</feat><!-- KA -->
+    <feat name="Gender" value="Masc" upos="PRON">9</feat><!-- ŠU, KA, KU-NU, SÚ -->
+    <feat name="Gender" value="Neut" upos="ADJ,DET,NOUN,PRON,VERB">81</feat><!-- KUR, KUR-e, É-er, KÙ.BABBAR, TI-an-na-aš, ke-e, ki-i, ku-it, É, ŠA-ME-E -->
+    <feat name="Language" value="Akk" upos="ADJ">1</feat><!-- EL-LAM -->
+    <feat name="Language" value="Sum" upos="NOUN">3</feat><!-- DINGIR.MEŠ-aš, KIR4, LÚ.U19.LU-an -->
+    <feat name="Mood" value="Imp" upos="AUX,VERB">17</feat><!-- e-eš-du, ar-mi-iz-zi-ya-an-ta-ru, da-a, e-eš, i-it, i-ya, i-ya-an-ni, ka-ri-ip-pa-an-du, ki-ša-ru, pa-a-an-du -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">160</feat><!-- pa-a-i, da-a-i, ti-ya-zi, ú-ez-zi, a-ki, i-ya-nu-un, pa-a-an-zi, pa-iz-zi, ti-it-ta-nu-ut, za-a-ḫi -->
+    <feat name="Number" value="Plur" upos="ADJ,DET,NOUN,PRON,VERB">155</feat><!-- š-ma-aš, LÚ.MEŠ, a-at, n-na-aš, ANŠE.KUR.RA.ḪI.A, GUD.ḪI.A, NI, UDU.ḪI.A, a-aš, ke-e -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,VERB">447</feat><!-- mu, a-an, YA, a-aš, ku-iš-ki, pa-a-i, ŠU, KUR, da-a-i, ú-ez-zi -->
+    <feat name="NumType" value="Card" upos="NUM">3</feat><!-- mi-e-ú-uš, mi-u-wa-aš, te-ri-ya-aš -->
+    <feat name="NumType" value="Ord" upos="ADV,NUM">2</feat><!-- da-a-an, ta-a-an -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">78</feat><!-- mu, YA, n-na-aš, I, NI, am-mu-uk, i-ya-nu-un, GUL-aḫ-ḫu-un, [ú-g, a-du-e-ni -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">41</feat><!-- š-ma-aš, t-ta, zi-g, ú-wa-ši, KA, KU-NU, da-a, e-ep-ta, e-ep-te-e-ni, e-eš -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">199</feat><!-- a-an, a-aš, pa-a-i, ŠU, a-at, da-a-i, ú-ez-zi, š-ma-aš, š-ši, an -->
+    <feat name="Poss" value="Yes" upos="PRON">36</feat><!-- YA, ŠU, I, KA, NI, KU-NU, SÚ, mi-it, te-eš, ti-iš -->
+    <feat name="PronType" value="Dem" upos="PRON">6</feat><!-- a-pa-a-aš, a-pu-u-un, ki-i -->
+    <feat name="PronType" value="Ind" upos="PRON">8</feat><!-- ku-iš-ki, ku-e-da-ni-ik-ki, ku-i]š-ki -->
+    <feat name="PronType" value="Int" upos="PRON">4</feat><!-- ku-it, ku-wa-at-ta -->
+    <feat name="PronType" value="Prs" upos="PRON">114</feat><!-- mu, a-an, YA, a-aš, š-ma-aš, ŠU, a-at, I, n-na-aš, š-ši -->
+    <feat name="PronType" value="Rel" upos="PRON">6</feat><!-- ku-e, ku-e-el, ku-i-uš, ku-i-š, ku-in, ku-iš -->
+    <feat name="PronType" value="Tot" upos="DET,PRON">2</feat><!-- ḫu-u-ma-an-da-az, ḫu-u-ma-an-te-eš -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">59</feat><!-- e-eš-ta, ti-it-ta-nu-ut, ú-e-er, GUL-aḫ-ḫu-un, IṢ-BAT, a-ni-ya-at, a-ú-e-er, ap-pa-an-da-at, da-a-aš, da-a-er -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">126</feat><!-- pa-a-i, da-a-i, ú-ez-zi, ti-ya-zi, a-ki, pa-a-an-zi, pa-iz-zi, za-a-ḫi, ú-wa-ši, šar-ni-ik-zi -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">202</feat><!-- pa-a-i, da-a-i, ú-ez-zi, ti-ya-zi, a-ki, e-eš-du, e-eš-ta, i-ya-nu-un, pa-a-an-zi, pa-iz-zi -->
+    <feat name="VerbForm" value="Inf" upos="VERB">5</feat><!-- a-ku-wa-an-na, ma-uš-šu-u-wa-an-zi, ša-a-ru-wa-u-wa-an-zi, ša-an-ḫu-u-wa-an-zi, šu-un-nu-ma-an-zi -->
+    <feat name="VerbForm" value="Part" upos="VERB">9</feat><!-- ak-kán-ta-aš, ak-kán-za, i-ya-an-za, pa-ap-pár-ša-an-ta, ti-ya-an, tu-u-ri-ya-an, šar-ni-in-kán, še-ek-kán-te-et, ḫar-ga-an-za -->
+    <feat name="VerbForm" value="Sup" upos="VERB">3</feat><!-- pa-iš-ga-u-wa-an, pé-eš-ke-u-an, pí-iš-ke-u-an -->
+    <feat name="VerbForm" value="Vnoun" upos="VERB">1</feat><!-- GUL-aḫ-ḫu-wa-ar -->
+    <feat name="Voice" value="Act" upos="AUX,VERB">183</feat><!-- pa-a-i, da-a-i, ú-ez-zi, ti-ya-zi, a-ki, e-eš-du, e-eš-ta, i-ya-nu-un, pa-a-an-zi, pa-iz-zi -->
+    <feat name="Voice" value="Mid" upos="VERB">19</feat><!-- ap-pa-an-da-at, ar-mi-iz-zi-ya-an-ta-ru, ar-ta, du-uq-qa-a-ri, e-šu-wa-aš-ta, ki-it-ta-at, ki-it-ta-ri, ki-ša-at, ki-ša-ri, ki-ša-ru -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="37">
+    <dep name="acl">1</dep>
+    <dep name="acl:relcl">4</dep>
+    <dep name="advcl">30</dep>
+    <dep name="advmod">89</dep>
+    <dep name="advmod:emph">4</dep>
+    <dep name="advmod:loc">34</dep>
+    <dep name="amod">14</dep>
+    <dep name="appos">8</dep>
+    <dep name="aux">4</dep>
+    <dep name="case">49</dep>
+    <dep name="cc">87</dep>
+    <dep name="ccomp">2</dep>
+    <dep name="compound">6</dep>
+    <dep name="conj">45</dep>
+    <dep name="cop">5</dep>
+    <dep name="csubj">2</dep>
+    <dep name="dep">4</dep>
+    <dep name="det">15</dep>
+    <dep name="discourse">67</dep>
+    <dep name="discourse:conn">26</dep>
+    <dep name="dislocated">13</dep>
+    <dep name="expl">2</dep>
+    <dep name="expl:pass">13</dep>
+    <dep name="flat">1</dep>
+    <dep name="iobj">22</dep>
+    <dep name="mark">34</dep>
+    <dep name="nmod">107</dep>
+    <dep name="nmod:det">97</dep>
+    <dep name="nsubj">97</dep>
+    <dep name="nummod">26</dep>
+    <dep name="obj">126</dep>
+    <dep name="obl">96</dep>
+    <dep name="orphan">9</dep>
+    <dep name="parataxis">13</dep>
+    <dep name="root">136</dep>
+    <dep name="vocative">7</dep>
+    <dep name="xcomp">14</dep>
+  </deps>
+</treebank>
