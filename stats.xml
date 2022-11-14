@@ -5,14 +5,14 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>136</sentences><tokens>970</tokens><words>1309</words><fused>256</fused></total>
+    <total><sentences>136</sentences><tokens>971</tokens><words>1309</words><fused>255</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>136</sentences><tokens>970</tokens><words>1309</words><fused>256</fused></test>
+    <test><sentences>136</sentences><tokens>971</tokens><words>1309</words><fused>255</fused></test>
   </size>
   <lemmas unique="423" /><!-- nu, URU, -ma, -aš, -wa, d, -kan, -mu, -a, -miš, -za, kuiš, natta, ANA, pai-#2- -->
   <forms unique="677" /><!-- nu, URU, d, a, kán, n, ma, mu, ya, ták-ku, A-NA, wa, LÚ, a-an, a-aš -->
-  <fusions unique="205" /><!-- nu=kán, nu=mu, n=a-aš, d-UTU-uš, n=a-an, URU-Ḫa-at-tu-ši, d-UTU-Š=I, n=a-at=mu, nu-u=š-ša-an, A-BU=YA, BE-LÍ=NI=wa-a=n-na-aš, DUG-ḫar-ši-ya-al-li, GIŠ-BANŠUR, GIŠ-BANŠUR-i, LUGAL-š=a -->
+  <fusions unique="204" /><!-- nu=kán, nu=mu, n=a-aš, d-UTU-uš, n=a-an, URU-Ḫa-at-tu-ši, d-UTU-Š=I, n=a-at=mu, nu-u=š-ša-an, A-BU=YA, BE-LÍ=NI=wa-a=n-na-aš, DUG-ḫar-ši-ya-al-li, GIŠ-BANŠUR, GIŠ-BANŠUR-i, LUGAL-š=a -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="15">
     <tag name="ADJ">21</tag><!-- ELLUM, idālu-, ḫantezzi(ya)-, ḫarki-, IGI.NU.GÁL, TUR, dankui-, dannatta-, daššu-, išḫarwant- -->
