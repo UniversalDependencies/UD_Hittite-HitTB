@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Hittite-HitTB:
-commit 7b74c901bcfea98db7bfcfe2020081bc30778013
+commit c2ecd7da5f6caf2f41a028209a94cea5e516f41d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 14 11:14:05 2022 +0100
+Date:   Tue May 9 10:38:06 2023 +0200
 Size: counted 1309 of 1309 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.538526973855526.
 Size: maximum value 13.815511 is for 1000000 words or more.
