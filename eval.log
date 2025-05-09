@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Hittite-HitTB:
-commit b09b56bfd34c8d5d216eeae300b5a564ad30333f
+commit 5cc3e76edcb6b5065c66cb524f8bc76529a46c46
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 12:32:09 2024 +0200
+Date:   Mon Nov 11 15:40:20 2024 +0100
 Size: counted 1309 of 1309 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.538526973855526.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,21 +20,21 @@ Features: source of annotation (from README) factor is 1.
 Universal relations: 31 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL         77
-Udapi: found 77 bugs.
+               TOTAL         76
+Udapi: found 76 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 1309 words.
-Genres: found 1 out of 17 known.
+Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang hit --max-err=10 UD_Hittite-HitTB/hit_hittb-ud-test.conllu
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
+(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
 (weight=0.256410256410256) * (score{size}=0.0389798821835853) = 0.00999484158553468
 (weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.882352941176471) = 0.0678733031674208
-(weight=0.307692307692308) * (score{udapi}=0.411764705882353) = 0.126696832579186
+(weight=0.307692307692308) * (score{udapi}=0.419404125286478) = 0.12904742316507
 (weight=0.0769230769230769) * (score{udeprels}=0.837837837837838) = 0.0644490644490645
-(TOTAL score=0.427897903018008) * (availability=1) * (validity=1) = 0.427897903018008
+(TOTAL score=0.429997110999569) * (availability=1) * (validity=1) = 0.429997110999569
 STARS = 2
-UD_Hittite-HitTB	0.427897903018008	2
+UD_Hittite-HitTB	0.429997110999569	2
