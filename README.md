@@ -29,6 +29,7 @@ Brandeis University, for offering his excellent course on Hittite in Spring 2020
 Data available since: UD v2.10
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: grammar-examples
 Lemmas: manual native
 UPOS: manual native
